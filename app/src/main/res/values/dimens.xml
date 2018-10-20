@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="title_name">130px</dimen>
+    <dimen name="app_title_size">17sp</dimen>
+    <dimen name="space_size">2dp</dimen>
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="web_progress_height">6px</dimen>
+    <dimen name="title_size">14sp</dimen>
+
+
+</resources>
